@@ -1,0 +1,45 @@
+
+
+[
+    
+    {
+        "id": 1,
+        "topic": "ICT",
+        "topic2": "APPLICATION",
+        "image": "assets/frame7.jpeg",                                          
+        "description": "General Application of InformationTechnology for the automation of Kingdom Advancement endeavours"
+    },
+    
+    {
+        "id": 2,
+        "topic": "SATELLITE",
+        "topic2": "BROADCAST",
+        "image": "assets/frame8.jpg",                                        
+        "description": "One of the things we do is rendering of live broadcast to various Winners’ Satellite Centers across the globe"
+    },
+    
+    {
+        "id": 3,
+        "topic": "INTERNET",
+        "topic2": "STREAMING",
+        "image": "assets/frame9.jpeg",                                             
+        "description": "We also stream live services on the web via Youtube, FT websites, Mobile Apps, Facebooks, Twitter and Instagram"
+    },
+    
+    {
+        "id": 4,
+        "topic": "AUTO",
+        "topic2": "MATION",
+        "image":  "assets/frame10.jpg",                                          
+        "description": "We run Automation of Kingdom based initiatives and operations. This is to enhance the flow of Kingdom growth and advancement"
+    },
+    
+    {
+        "id": 5,
+        "topic": "ICT",
+        "topic2": "APPLICATION",
+        "image": "assets/frame7.jpeg",                                           
+        "description": "General Application of InformationTechnology for the automation of Kingdom Advancement endeavours"
+    }
+]
+    

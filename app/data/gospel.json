@@ -1,0 +1,40 @@
+
+
+[
+    
+    {
+        "id": 1,
+        "topic": "UnderstandingThe Wonders of Thanksgiving",
+        "image": "/assets/frame16.jpeg",
+        "speaker":"Bishop David Oyedepo"                                         
+    },
+    
+    {
+        "id": 2,
+        "topic": "Pathways to Accessing Impartation of the Spirit of Faith",
+        "image": "/assets/frame162.jpeg",                                        
+        "speaker": "Bishop David Oyedepo"
+    },
+    
+    {
+        "id": 3,
+        "topic": "Prophetic Warning to  The End Time  Church",
+        "image": "/assets/frame163.jpeg",                                             
+        "speaker": "Bishop David Abioye"
+    },
+    
+    {
+        "id": 4,
+        "topic": "The Meekness Factor in the School of  Exploit",
+        "image":  "/assets/frame164.jpeg",                                          
+        "speaker": "Pastor Folorunsho"
+    },
+    
+    {
+        "id": 5,
+        "topic": "UnderstandingThe Wonders of Thanksgiving",
+        "image": "/assets/frame16.jpeg",
+        "speaker":"Bishop David Oyedepo"                                         
+    }
+]
+    
