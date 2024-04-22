@@ -34,6 +34,10 @@ export default function Footer() {
       <div className="bg-[#E01515] pt-6 text-white text-center h-[74px]">
          Copyright © 2022. All right reserved
       </div>
+
+      <div className="bg-[#E01515] pt-6 text-white text-center h-[74px]">
+         Powered By: Okoro Jeremiah ICTG_Test
+      </div>
     </div>
   );
 }
